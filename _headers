@@ -1,0 +1,23 @@
+# Custom Headers
+#
+# https://www.netlify.com/docs/headers-and-basic-auth
+
+# useful for deploy previews
+/assets/fonts/*
+  Access-Control-Allow-Origin: *
+
+# http/2 server push
+# https://www.netlify.com/blog/2017/07/18/http/2-server-push-on-netlify/
+# the following push works only on the root page
+/
+  Link: </assets/js/main.min.js>; rel=preload; as=script
+  Link: </assets/css/main.css>; rel=preload; as=style
+  Link: </assets/fonts/fontawesome-webfont.woff2?v=4.7.0>; rel=preload; as=font
+
+/assets/css/*
+  Cache-Control: public, max-age=3600
+/assets/js/*
+  Cache-Control: public, max-age=3600
+/assets/fonts/*
+  Cache-Control: public, max-age=3600
+

@@ -11,6 +11,6 @@ Our main projects are the Model European Union. We currently held MEUs in Venice
 
 Moreover, on our website we also have a section in which our members write articles on European affairs and news related to our present and past projects across the peninsula.
 
-**Read **[**here**](https://drive.google.com/file/d/1ygQLLKG7IQUB96cFFYtlcMNeaAmHGnlJ/view?usp=sharing)** our statute!**
+**Read [here](https://drive.google.com/file/d/1ygQLLKG7IQUB96cFFYtlcMNeaAmHGnlJ/view?usp=sharing) our statute!**
 
 

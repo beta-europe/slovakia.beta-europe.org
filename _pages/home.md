@@ -24,7 +24,7 @@ intro_01:
     btn_class: "btn--primary"
 intro_02:
   - title: Our Mission
-    image_path: /assets/images/ourmission.jpeg
+    image_path: /assets/images/beta-logo-200-transparent.png
     alt: "Group Photo BETA Slovakia"
     excerpt:
     |

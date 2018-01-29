@@ -1,16 +1,51 @@
 ---
-title: 'About us '
+title: 'Our team'
 modified: 2016-04-18T20:39:37.000Z
-excerpt: About BETA Slovakia
+excerpt: Our team
 ---
-![undefined](/assets/images/AG tutti.jpg)
 
-BETA Slovakia is a no-profit association born in 2016 as a national branch of Bringing Europeans Together Association e.V. Our goal is to contribute to the development of a european consciousness among the youth and to spread knowlegde and awareness about how the European Union works and what does it mean to be an European citizen.
+## People behind BETA Slovakia
 
-Our main projects are the Model European Union. We currently held MEUs in Venice and Rome and in 2018 we’ll have one in Milan. Model European Union, due to their “learning-by-doing” approach, allow participants to put into practice their knowledge and to let them develop skills that will be useful in their future career. We also offer a project for High School students, called “BETA in Schools – Insegnare la cittadinanza europea”, in which students will discuss about the European Union, its issues and its perks, through specific theme-based lectures. 
+In order to build a stronger European Union, we want for Slovakia to be an indispensable and active player in its politics
+ 
+Our team consists of young, active people whose passion towards the politics of Europe and civic engagement; brought them together to establish this civic association and organize Model European Union Bratislava 2018 as our first project.
 
-Moreover, on our website we also have a section in which our members write articles on European affairs and news related to our present and past projects across the peninsula.
+We strive to develop effective critical thinking in young people through intercultural dialogue and informal education, and thus contribute to building a stronger European Union based on mutual understanding and educated opinion. Seeing significant, yet unfulfilled potential in Slovakia, we work towards encouraging our citizens to play a more active role in national and European affairs, thereby, safeguarding democratic principles which have proven to only benefit Slovakia since its introduction.
 
-**Read [here](https://drive.google.com/file/d/1ygQLLKG7IQUB96cFFYtlcMNeaAmHGnlJ/view?usp=sharing) our statute!**
+We believe that the future of Slovakia lies in a united European Union, therefore we hope that the conference will establish: a strong tradition of organizing sustainable, professional and educational events about EU politics to achieve our goals.
+
+## Lucia Krajčovičová
+President 
+lucia.krajcovicova@meubratislava.eu
+ 
+## Nina Holičková
+Vice-president, Head of Content
+nina.holickova@meubratislava.eu
+ 
+## Vanesa Djibrilová
+Vice-president, Head of Marketing
+Vanesa.djibrilova@meubratislava.eu
+ 
+## Lenka Marčanová
+Partnerships & Fundraising Coordinator
+lenka.marcanova@meubratislava.eu
+ 
+## Karolína Ondrušková
+Fundraising Coordinator
+karolina.ondruskova@meubratislava.eu
+ 
+## Adrián Šajánek
+Head of Finance
+adrian.sajanek@meubratislava.eu   
+ 
+## Tamás Málits
+Marketing Coordinator
+tamas.malits@meubratislava.eu
+
+## Daniel Takács 
+Legal Officer
+daniel.takacs@meubratislava.eu 
+
+
 
 

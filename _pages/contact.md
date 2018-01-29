@@ -3,18 +3,11 @@ title: Contact
 modified: 2017-10-31T18:59:01.620Z
 excerpt: Become a member of BETA Italia
 ---
-## Become a Member
+## Individuals
 
-Do you want to join BETA Italia? Fill out this [form](https://docs.google.com/forms/d/1-_dcYP7MLFtXu9f2e0LXj1pdAtZzENQggnWfMe6RkJU/prefill) and become a member of our association! We will contact you as soon as possible to discuss the terms.
+Our aim is to deliver you an unforgettable experience of non-formal education and networking, and therefore, we welcome any comments and enquiries. Please do not hesitate to contact us on info@meubratislava.eu and our team will do their best to provide you with a satisfactory answer.
 
-If you have any enquires do not hesitate to write us: <mailto:contact@italy.beta-europe.org>
+## Organizations
 
-## Get Engaged
+Since Model European Union Bratislava 2018 is an international student initiative, its success depends heavily on your support and mutual cooperation of many parties. Therefore, the conference provides opportunities for companies, charities and institutions to participate in the programme, interact with our partners and promote themselves. For partnership and sponsorship enquiries or requests, please do not hesitate to send us an email to partners@meubratislava.eu.
 
-BETA Italia organises several MEU across the country. If you want to organise one in your city, become a member and we will support you thoughout the whole process, assuring the quality of the conference!
-
-## Become a partner
-
-If your association shares our values and our goals and you want to become our partner, all you have to do is contact us at <mailto:contact@italy.beta-europe.org>
-
-We welcome new partners and we are more than glad to cooperate with many other associations aimed at bringing Europeans together!

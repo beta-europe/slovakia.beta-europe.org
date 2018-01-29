@@ -14,7 +14,7 @@ excerpt: "Bringing Europeans Together Association Slovakia (BETA Slovakia) is a 
 
 intro_01:
   - title: Our Association
-    image_path: /assets/images/beta-logo-600.png
+    image_path:  /assets/images/beta-logo-200-transparent.png 
     alt: "Logo of BETA Slovakia"
     excerpt:
     |

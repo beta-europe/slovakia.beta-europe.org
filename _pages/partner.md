@@ -13,9 +13,8 @@ sidebar:
         Please [contact us](/contact/) to learn more about partnerships.
 ---
 
-The network of BETA Europe is strong thanks to its partners.
+The network of BETA is strong thanks to its partners.
 
-{% include map.html geojson="/partners.geojson" %}
 
 {% include base_path %}
 

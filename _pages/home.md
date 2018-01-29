@@ -32,8 +32,17 @@ Our mission is to promote European consciousness and identity based on plurality
     url: "/about/"
     btn_label: "About Us"
     btn_class: "btn--primary"
-
-
+    
+-intro_03:
+-  - title: Our Work
+-    image_path: /assets/images/all-veumeu.jpg
+-    alt: "VeUMEU Group photo"
+-    excerpt:
+-    |
+-      In order to achieve its goals, BETA Slovakia organises different MEUs in Slovakia.
+-    _url: "/calendar/"
+-    _btn_label: "Conference Calendar"
+-    _btn_class: "btn--primary"
 
 ---
 

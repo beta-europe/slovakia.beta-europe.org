@@ -24,19 +24,15 @@ intro_01:
     btn_class: "btn--primary"
 intro_02:
   - title: Our Mission
-    image_path: /assets/images/AG tutti.jpg
+    image_path: /assets/images/ourmission.jpeg
     alt: "Group Photo BETA Slovakia"
     excerpt:
     |
-      Our mission is to contribute to the development of a European consciousness among the youth and to spread knowledge and awareness about how the European Union works and what does it mean to be a European citizen.
+Our mission is to promote European consciousness and identity based on plurality, tolerance and cooperation in Slovakia and beyond. We aim to further strengthen European civil society by developing critical thinking in young people through intercultural dialogue and informal education.
     url: "/about/"
     btn_label: "About Us"
     btn_class: "btn--primary"
-intro_03:
-  - title: Our Work
-    image_path: /assets/images/all-veumeu.jpg
-    alt: "VeUMEU Group photo"
-    excerpt:
+
     |
       In order to achieve its goals, BETA Slovakia organises different MEUs in Slovakia.
     _url: "/calendar/"

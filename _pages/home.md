@@ -33,11 +33,7 @@ Our mission is to promote European consciousness and identity based on plurality
     btn_label: "About Us"
     btn_class: "btn--primary"
 
-    |
-      In order to achieve its goals, BETA Slovakia organises different MEUs in Slovakia.
-    _url: "/calendar/"
-    _btn_label: "Conference Calendar"
-    _btn_class: "btn--primary"
+
 
 ---
 

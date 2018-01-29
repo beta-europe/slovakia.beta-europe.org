@@ -16,42 +16,74 @@ We believe that the future of Slovakia lies in a united European Union, therefor
 
 ## Lucia Krajčovičová
 President 
+
+
 ![undefined](/assets/images/Lucka.jpg)
+
+
 lucia.krajcovicova@meubratislava.eu
  
 ## Nina Holičková
 Vice-president, Head of Content
+
+
 ![undefined](/assets/images/Nina.jpg)
+
+
 nina.holickova@meubratislava.eu
  
 ## Vanesa Djibrilová
 Vice-president, Head of Marketing
+
+
 ![undefined](/assets/images/Vanesa.jpg)
+
+
 Vanesa.djibrilova@meubratislava.eu
  
 ## Lenka Marčanová
 Partnerships & Fundraising Coordinator
+
+
 ![undefined](/assets/images/Lenka.jpg)
+
+
 lenka.marcanova@meubratislava.eu
  
 ## Karolína Ondrušková
 Fundraising Coordinator
+
+
 ![undefined](/assets/images/Karolina.jpg)
+
+
 karolina.ondruskova@meubratislava.eu
  
 ## Adrián Šajánek
 Head of Finance
+
+
 ![undefined](/assets/images/Adrian.jpg)
+
+
 adrian.sajanek@meubratislava.eu   
  
 ## Tamás Málits
 Marketing Coordinator
+
+
 ![undefined](/assets/images/Tamas.jpg)
+
+
 tamas.malits@meubratislava.eu
 
 ## Daniel Takács 
 Legal Officer
+
+
 ![undefined](/assets/images/Daniel.jpg)
+
+
 daniel.takacs@meubratislava.eu 
 
 

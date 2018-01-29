@@ -18,7 +18,7 @@ We believe that the future of Slovakia lies in a united European Union, therefor
 President 
 
 
-![undefined](/assets/images/Lucka.jpg)
+![undefined](/assets/images/Lucka2.jpg)
 
 
 lucia.krajcovicova@meubratislava.eu

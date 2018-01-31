@@ -19,7 +19,7 @@ intro_01:
     excerpt:
     |
       Bringing European Together Association Slovakia (BETA Slovakia) is a young, politically independent, non-profit organisation founded in 2017 by 8 Europeans in Bratislava. As one of its 10 branches, we share the core objectives and values of the Bringing Europeans Together Association Europe (BETA e.V.) based in Mainz, Germany. The BETA network constitutes of more than 1,500 youth of 33 nationalities and supports over 20 events worldwide.
-    url: "/contact/"
+    url: "/ourteam/"
     btn_label: "People behind BETA Slovakia"
     btn_class: "btn--primary"
 intro_02:

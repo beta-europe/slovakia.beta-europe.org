@@ -6,7 +6,7 @@ mail: polska@beta-europe.org
 country: Poland
 town: Warsaw
 header:
-  image: /assets/images/BETA_Polska_medium.png
+  image: /assets/images/header-meu2015.jpg
   teaser: /assets/images/BETA_Polska_smol.png
 ---
 

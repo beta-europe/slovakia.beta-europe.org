@@ -2,16 +2,18 @@
 main:
   - title: About
     url: /about/
-
+    
+  - title: Our team
+    url: /ourteam/
+    
+  - title: Partners
+    url: /partner/
+         
   - title: Contact
     url: /contact/
     
   - title: Forum
     url: https://forum.beta-europe.org
   
-  - title: Partners
-    url: /partner/
-    
-  - title: Our team
-    url: /ourteam/
-    
+
+

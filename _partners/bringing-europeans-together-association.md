@@ -11,7 +11,7 @@ excerpt: >-
   democratic processes and consciousness about the plurality of European
   identities, both on national and international level.
 header:
-  teaser: /assets/images/beta europe.png
+  teaser: /assets/images/beta_eu_logo_smol.png
 ---
 <!--StartFragment-->
 

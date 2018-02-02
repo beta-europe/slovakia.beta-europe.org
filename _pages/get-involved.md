@@ -29,7 +29,7 @@ Be the Big Boss of the conference! Let your speech resonate in the Council and P
 
 APPLICATIONS will be open soon! Check our website or social media for any updates!
 
-\    
+
 
 ## Partners
 

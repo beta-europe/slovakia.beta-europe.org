@@ -1,19 +1,14 @@
-# main links
 main:
   - title: About
     url: /about/
-    
   - title: Our team
     url: /ourteam/
-    
   - title: Partners
     url: /partner/
-         
   - title: Contact
     url: /contact/
-    
   - title: Forum
-    url: https://forum.beta-europe.org
-  
-
-
+    url: 'https://forum.beta-europe.org'
+  - title: Get involved
+    url: /get-involved/
+teams: []

@@ -5,10 +5,10 @@ main:
     url: /ourteam/
   - title: Partners
     url: /partner/
+  - title: Get involved
+    url: /get-involved/
   - title: Contact
     url: /contact/
   - title: Forum
     url: 'https://forum.beta-europe.org'
-  - title: Get involved
-    url: /get-involved/
 teams: []

@@ -16,24 +16,23 @@ We believe that the future of Slovakia lies in a united European Union, therefor
 
 ## Lucia Krajčovičová
 President 
-
-
-![undefined](/assets/images/Lucka.jpg)
-
+l.krajcovicova@beta-europe.org
  
 ## Ema Grajcarová
 Vice-president
+e.grajcarova@beta-europe.org
  
 ## Andrea Komová
 Head of Finance and Partnerships
-
 a.komova@beta-europe.org
  
 ## Milana Idrisova
 Head of Content and Editting
+m.idrisova@beta-europe.org
  
 ## Samuel Švajda
 PR and Social Media
+s.svajda@beta-europe.org
 
 
 

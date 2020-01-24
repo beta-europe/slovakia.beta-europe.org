@@ -76,7 +76,7 @@ We are a group of Slovak students and young professionals who have decided to ad
   <td>
    <h3>Jakub Barszcz</h3>
    <p>Head of Partnerships & Fundraising<br/>
-    <a href="mailto:s.svajda@beta-europe.org">s.svajda@beta-europe.org</a></p>
+    <a href="mailto:j.barszcz@beta-europe.org">j.barszcz@beta-europe.org</a></p>
    <p>Jakub is a final year MA Politics student at the University of Glasgow and will seek to pursue further studies in the areas of Political Economy and Political Thought. A variety of positions and internships enabled him to gain experience in the political sphere. These include the position of assistant to one of the members of the International Programme Board of the 2018 Prague European Summit, as well as interning as a campaign planner of the current mayor of his home town during the electoral campaign. Furthermore, he completed an internship within the Center for Security Analyses and Prevention; where he participated in the analysis of security phenomena relevant for the contemporary European Union. This diverse range of positions, as well as Jakub‘s interest in the issues of social justice and in political theory, have led to the fostering of an understanding of the importance of youth education, intercultural dialogue and the development of critical thinking. His current hobbies include improving in the German language,  multiple versatile writing, as well as jogging. </p>
   </td>
  </tr>

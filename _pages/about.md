@@ -5,8 +5,6 @@ excerpt: About BETA Slovakia
 ---
 ![undefined](/assets/images/Team.png)
 
-# About us 
-
 ## BETA Slovakia
 
 Bringing Europeans Together Association (BETA) Slovakia is a branch of a politically independent, non-governmental organisation BETA Europe AISBL based in Brussels, Belgium. We aim to promote European consciousness and strengthen civil society by developing critical thinking in young people through intercultural dialogue and informal education. 

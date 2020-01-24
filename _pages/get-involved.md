@@ -49,7 +49,7 @@ Have your banner with your logo on our events! We offer you an opportunity for p
 
 ### Support the good cause!
 
-We can offer you an opportunity to present yourself on the partners fair during the MEUBA 2018 conference. Here you can have your physical marketing, such as banners and flyers, present in our events! Or even present a speech in front of the participants supporting the good cause.
+We can offer you an opportunity to present yourself on the partners fair during the MEU Bratislava 2020 conference. Here you can have your physical marketing, such as banners and flyers, present in our events! Or even present a speech in front of the participants supporting the good cause.
 
 Not only would supporting the good cause add to your reputation, it will give you the edge among your peers via the social responsibility. In addition, as both BETA and MEU have solid foundations, it would only add further competitive advantage.
 
@@ -57,4 +57,4 @@ Not only would supporting the good cause add to your reputation, it will give yo
 
 With BETA and MEU, we do not just aim to have your partnership for just a conference as it does not reflect our long term strive for European unity. In fact we would be humbled if your partnership goes beyond MEU for any future events that could take place. 
 
-### If you wish to get more informations about partnership opportunities or you like the prospect of being our partner, contact us on [partners@meubratislava.eu](partners@meubratislava.eu).
+### If you wish to get more informations about partnership opportunities or you like the prospect of being our partner, contact us on slovakia@beta-europe.org.

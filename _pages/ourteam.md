@@ -6,13 +6,9 @@ excerpt: Our Team
 
 ## People behind BETA Slovakia
 
-In order to build a stronger European Union, we want for Slovakia to be an indispensable and active player in its politics
- 
-Our team consists of young, active people whose passion towards the politics of Europe and civic engagement; brought them together to establish this civic association and organize Model European Union Bratislava 2020 as our first project.
+We are a group of Slovak students and young professionals who have decided to address the rising issues of disinformation and extremism spreading among the youth in Slovakia and neighboring countries. Seeing significant, yet unfulfilled potential in Slovakia, we work towards encouraging our citizens to play a more active role in national and European affairs; thereby safeguarding democratic principles which have proven to only benefit Slovakia since its introduction. With our various skill-sets, expertise and the wealth of our combined experience, we hope to make MEU an engaging event for all of its participants with a far-reaching, positive impact. 
 
-We strive to develop effective critical thinking in young people through intercultural dialogue and informal education, and thus contribute to building a stronger European Union based on mutual understanding and educated opinion. Seeing significant, yet unfulfilled potential in Slovakia, we work towards encouraging our citizens to play a more active role in national and European affairs, thereby, safeguarding democratic principles which have proven to only benefit Slovakia since its introduction.
 
-We believe that the future of Slovakia lies in a united European Union, therefore we hope that the conference will establish: a strong tradition of organizing sustainable, professional and educational events about EU politics to achieve our goals.
 
 ## Lucia Krajčovičová
 President 

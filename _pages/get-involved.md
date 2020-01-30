@@ -5,7 +5,7 @@ excerpt: For anyone interested in joining the MEU adventure !
 ---
 ## Participants
 
-The EU's three main institutions, the European Commission; the European Parliament and the Council of the European Union, are at the heart of the EU decision-making process. The adoption of a legislation is a complex process requiring interaction between the actors mentioned above. Since MEU simulates the whole decision-making process, it allows participants to choose from a variety of roles according to their interests and level of experience with simulations of European politics.
+The EU's three main institutions, the European Commission; the European Parliament and the Council of the European Union, are at the heart of the EU decision-making process and the adoption of a legislation is a complex process requiring interaction between all these actors. Since MEU simulates the whole decision-making process, it allows participants to choose from a variety of roles according to their interests and level of experience with simulations of European politics.
 
 ### The Commissioners 
 
@@ -25,36 +25,21 @@ Be the Big Brother of the MEU! Be the eyes and ears of the conference! Reveal th
 
 ### Chairs 
 
-Be the Big Boss of the conference! Let your speech resonate in the Council and Parliament! Be the keeper of order! Do you like being an authority? 
+Be the Big Boss of the conference and let your speech resonate in the Council and Parliament! Be the keeper of order! Do you like being an authority? 
 
-APPLICATIONS will be open soon! Check our website or social media for any updates!
+### APPLICATIONS will be open soon! Check our website or social media for any updates!
 
 
 
 ## Partners
 
-BETA is established in 10 countries in Europe and has a plethora of followers on social media.
+BETA is established in 10 countries in Europe and has a plethora of followers on social media. Due to its status as a well branded established network, it has a large track-record of international projects.
 
-Due to its status as a well branded established network, it has a large track-record of international projects.
+Both BETA and MEU share the same motive: to tightly knit the Europeans together. Thus, it grants the opportunity for both participants and our partner organizations to exchange ideas and network. 
 
-Both BETA and MEU share the same motive: to tightly knit the Europeans together. Thus, it grants the opportunity for both participants and our partner organizations to exchange ideas and network. If you support our cause of Europeanisation, we encourage you to join our conference team as a partner or sponsor! Build bridges with our 100 talented international participants and various partners to spread the word of your missions and opportunities tool. Discover more about how you can participate in our unique conference TODAY!
+If you support our cause of Europeanisation, we encourage you to join our conference team as a partner or sponsor! Build bridges with our more than 60 talented international participants and various partners. Advertise yourself through our physical and online (social) media marketing! Come to the conference and hand out leaflets and other promotional material or even have a speech in front of all of the participants! 
+Lastly, but not leastly, become our long-term partner and help us to organize future events aimed at promotion of democratic consciousness and strengthening of civil society. 
 
-### Advertise yourself!
-
-We will make your name known on all types of physical and online (social media) marketing, as well as, placing your logo alongside similar international partners. If there are still doubts about your company exclusivity, we at MEU a strong media coverage in Television and newspapers. This will be used to our full advantage when we plan to advertise our partners.
-
-### Have your chance to self-promote!
-
-Have your banner with your logo on our events! We offer you an opportunity for presenting yourself on the partners fair during the MEUBA 2018 conference where you can hand out leaflets and other promotional material or even have a speech in front of all of the participants.
-
-### Support the good cause!
-
-We can offer you an opportunity to present yourself on the partners fair during the MEU Bratislava 2020 conference. Here you can have your physical marketing, such as banners and flyers, present in our events! Or even present a speech in front of the participants supporting the good cause.
-
-Not only would supporting the good cause add to your reputation, it will give you the edge among your peers via the social responsibility. In addition, as both BETA and MEU have solid foundations, it would only add further competitive advantage.
-
-### A partnership’s for life, not just a conference!
-
-With BETA and MEU, we do not just aim to have your partnership for just a conference as it does not reflect our long term strive for European unity. In fact we would be humbled if your partnership goes beyond MEU for any future events that could take place. 
+Discover more about how you can participate in our unique conference TODAY!
 
 ### If you wish to get more informations about partnership opportunities or you like the prospect of being our partner, contact us on slovakia@beta-europe.org.

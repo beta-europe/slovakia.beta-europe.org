@@ -10,7 +10,7 @@ header:
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association Slovakia (BETA Slovakia) is a politically independent, non-profit association aiming to organize simulations of European politics – Model European Union Bratislava.  "
+excerpt: "Bringing Europeans Together Association Slovakia (BETA Slovakia) is a politically independent, non-profit association aiming to organize simulations of European politics – Model European Union Bratislava 2020.  "
 
 intro_01:
   - title: Our Association
@@ -28,7 +28,7 @@ intro_02:
     alt: "Group Photo BETA Slovakia"
     excerpt:
     |
-      Our mission is to promote European consciousness and identity based on plurality, tolerance and cooperation in Slovakia and beyond. We aim to further strengthen European civil society by developing critical thinking in young people through intercultural dialogue and informal education.
+      Our mission is to promote European consciousness and identity based on plurality, tolerance and cooperation in Slovakia and Visegrad countries (Poland, Hungary, Czechia). We aim to further strengthen European civil society by developing critical thinking in young people through intercultural dialogue and informal education.
     url: "/about/"
     btn_label: "About Us"
     btn_class: "btn--primary"
@@ -38,7 +38,7 @@ intro_03:
     alt: "VeUMEU Group photo"
     excerpt:
     |
-      In order to achieve its goals, BETA Slovakia organises different MEUs in Slovakia.
+      In order to achieve its goals, BETA Slovakia will organise MEU Bratislava 2020. It will be the first international simulation of the complete EU legislative process in Slovakia, convening the V4 youth to discuss mutual issues of low EU identity, rising populist ideas and disinformation on three interconnected levels. 
     _url: "/calendar/"
     _btn_label: "Conference Calendar"
     _btn_class: "btn--primary"

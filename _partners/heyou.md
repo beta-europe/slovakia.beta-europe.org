@@ -1,8 +1,7 @@
 ---
-slug: Heyou !
-title: Heyou !
-website: 'https://heyou.sk/'
+slug: open-society-foundation
+title: Open Society Foundation
+website: 'https://osf.sk/'
 header:
-  teaser: /assets/images/heyou_smol.png
+  teaser: /assets/images/logo_osf_500x208px_RGB_EN.png
 ---
-

@@ -6,26 +6,27 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 theme: minimal-mistakes-beta-jekyll
-minimal_mistakes_skin : "beta"
+minimal_mistakes_skin : "beta" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "BETA Slovakia"
+title                    : "BETA Netherlands"
 title_separator          : "-"
-name                     : "BETA Slovakia"
-description              : "Slovak chapter of Bringing Europeans Together Association"
-url                      : "https://slovakia.beta-europe.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Bringing Europeans Together Association Netherlands"
+description              : "EU Politics Simulations"
+url                      : "https://netherlands.beta-europe.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "beta-europe/slovakia.beta-europe.org" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "beta-europe/netherlands.beta-europe.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+search                   : true
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # "discourse" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : "forum.beta-europe.org" # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -49,6 +50,11 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+cms:
+  has_conference         : false
+
+# Related to Forum API
+forum_api: https://forum.beta-europe.org
 
 # SEO Related
 google_site_verification :
@@ -58,7 +64,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "BETA_Europe"
 facebook:
   username               :
   app_id                 :
@@ -73,26 +79,26 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : # "UA-70785498-1"
 
 
 # Site Author
 author:
-  name             : "BETA Slovakia"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Slovak chapter of Bringing Europeans Together Association e.V."
-  location         : "Slovakia"
-  email            : "slovakia@beta-europe.org"
+  name             : "BETA Netherlands"
+  avatar           :  # path of avatar image, e.g. "/assets/images/beta-logo-180-transparent.png"
+  bio              : "Bringing Europeans Together Association Netherlands"
+  location         : "The Hague, Netherlands"
+  email            : contact@netherlands.beta-europe.org
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "nlbeta"
   foursquare       :
-  github           : "orgs/beta-europe/teams/beta-slovakia/members"
+  github           : "orgs/beta-europe/teams/beta-netherlands"
   gitlab           :
   google_plus      :
   keybase          :
@@ -180,11 +186,11 @@ sass:
 permalink: /:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /news/page:num/
-timezone: "Europe/Bratislava" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/Athens" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -241,12 +247,20 @@ compress_html:
 collections:
   conferences:
     title: Conferences
-    output: false
+    output: true
     permalink: "/conference/:path/"
   partners:
     title: Partners
     output: true
     permalink: "/partner/:path/"
+  members:
+    title: Members
+    output: true
+    permalink: "/member/:path/"
+  observers:
+    title: Observers
+    output: true
+    permalink: "/observer/:path/"
   teams:
     title: Teams
     output: true
@@ -255,6 +269,10 @@ collections:
     title: Pages
     output: true
     permalink: "/:slug/"
+  teammembers:
+    title: Teammembers
+    output: true
+    permalink: "/teammembers/:path/"
 
 # Defaults
 defaults:
@@ -289,10 +307,43 @@ defaults:
       share: true
       edit: true
       comments: false
+  # _conferences
+  - scope:
+      path: ''
+      type: conferences
+    values:
+      layout: conference_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
   # _partners
   - scope:
       path: ''
       type: partners
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _observers
+  - scope:
+      path: ''
+      type: observers
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _members
+  - scope:
+      path: ''
+      type: members
     values:
       layout: partner_page
       author_profile: true
@@ -313,3 +364,14 @@ defaults:
       related: false
       sidebar:
         nav: teams
+  # _teammembers
+  - scope:
+      path: ''
+      type: teammembers
+    values:
+      layout: team_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
